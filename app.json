@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/selfie-bd/autofilterv5",
-    "repository": "https://github.com/selfie-bd/autofilterv5",
+    "repository": "https://github.com/PR0FESS0R-Master/autofilterv5",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
